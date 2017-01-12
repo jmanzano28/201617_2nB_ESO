@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.sistema_solar_scb"
+        id          = "cat.numancia.jocmobil_JMA"
         versionCode = "1" 
         version     = "0.0.01" >
 	
@@ -10,14 +10,14 @@
 
 	
 
-   <name>Sistema Solar</name>
+   <name>joc3rESO</name>
 
    <description>
-       Sistema Solar de 2n d'ESO B fet per Sergi Curtu
+       joc de mobil de 3r d'ESO B fet per jose miguel
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="jmanzano28@iesnumancia.cat">
+       jose miguel
     </author>
 
 	<content src="index.html"/>
